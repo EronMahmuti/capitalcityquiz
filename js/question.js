@@ -8,7 +8,7 @@ const quiz = [
     },
     {
         q:'What is the capital city of Rusia',
-        options:['St. Petersburg','Moska','Minsk','Kiev'],
+        options:['St. Petersburg','Moscow','Minsk','Kiev'],
         answer:1
     },
     {
