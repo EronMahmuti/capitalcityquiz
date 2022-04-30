@@ -23,5 +23,7 @@ cd dist
 
 ## Screenshot
 
+![capitalcities](https://user-images.githubusercontent.com/64994381/166103745-8bfd55d3-4613-4c6a-9bb8-ce191a46515a.png)
+
 
 
